@@ -18,10 +18,8 @@ body {
     background-position: center center;
     background-attachment: fixed;
     height: 100vh;
-    overflow: hidden;
+    /* overflow: hidden; */
 }
-
-
 
 .wrapper {
     position: relative;
@@ -46,5 +44,3 @@ h1{
     text-align:center;
     color: white;
 }
-
-
