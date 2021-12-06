@@ -40,6 +40,10 @@ body {
   height: 100%;
 }
 
+.circle {
+  clip-path: circle(150px);
+}
+
 h1{
     text-align:center;
     color: white;

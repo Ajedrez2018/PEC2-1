@@ -163,7 +163,7 @@ nav .mobile-menu {
 }
 
 .enlaces {
-  background-image: url("/F100029637.a756cc79.jpeg");
+  background-image: url("/egipto.79861f2a.jpeg");
 }
 .box {
   padding: 50px;
@@ -278,6 +278,11 @@ body {
 .flex-centered {
   align-items: center;
   height: 100%;
+}
+
+.circle {
+  -webkit-clip-path: circle(150px);
+          clip-path: circle(150px);
 }
 
 h1{

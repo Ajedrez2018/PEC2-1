@@ -204,7 +204,7 @@ var reloadCSS = require('_css_loader');
 
 module.hot.dispose(reloadCSS);
 module.hot.accept(reloadCSS);
-},{"./../img/522716_114562378732281_1055335040_n.jpeg":[["522716_114562378732281_1055335040_n.4b8b750e.jpeg","img/522716_114562378732281_1055335040_n.jpeg"],"img/522716_114562378732281_1055335040_n.jpeg"],"./../img/AJBARNA-cadires-bany-assistit_2018_710x379_1.jpeg":[["AJBARNA-cadires-bany-assistit_2018_710x379_1.902d5d34.jpeg","img/AJBARNA-cadires-bany-assistit_2018_710x379_1.jpeg"],"img/AJBARNA-cadires-bany-assistit_2018_710x379_1.jpeg"],"./../img/globoaccesible.jpeg":[["globoaccesible.c2328482.jpeg","img/globoaccesible.jpeg"],"img/globoaccesible.jpeg"],"./../img/A4A-playas-accesibles-guia-espana-1.jpeg":[["A4A-playas-accesibles-guia-espana-1.ad3d48f4.jpeg","img/A4A-playas-accesibles-guia-espana-1.jpeg"],"img/A4A-playas-accesibles-guia-espana-1.jpeg"],"./../img/crucero.jpg":[["crucero.91f3e2ce.jpg","img/crucero.jpg"],"img/crucero.jpg"],"./../img/F100029637.jpeg":[["F100029637.a756cc79.jpeg","img/F100029637.jpeg"],"img/F100029637.jpeg"],"_css_loader":"../node_modules/parcel/src/builtins/css-loader.js"}],"css/box.css":[function(require,module,exports) {
+},{"./../img/522716_114562378732281_1055335040_n.jpeg":[["522716_114562378732281_1055335040_n.4b8b750e.jpeg","img/522716_114562378732281_1055335040_n.jpeg"],"img/522716_114562378732281_1055335040_n.jpeg"],"./../img/AJBARNA-cadires-bany-assistit_2018_710x379_1.jpeg":[["AJBARNA-cadires-bany-assistit_2018_710x379_1.902d5d34.jpeg","img/AJBARNA-cadires-bany-assistit_2018_710x379_1.jpeg"],"img/AJBARNA-cadires-bany-assistit_2018_710x379_1.jpeg"],"./../img/globoaccesible.jpeg":[["globoaccesible.c2328482.jpeg","img/globoaccesible.jpeg"],"img/globoaccesible.jpeg"],"./../img/A4A-playas-accesibles-guia-espana-1.jpeg":[["A4A-playas-accesibles-guia-espana-1.ad3d48f4.jpeg","img/A4A-playas-accesibles-guia-espana-1.jpeg"],"img/A4A-playas-accesibles-guia-espana-1.jpeg"],"./../img/crucero.jpg":[["crucero.91f3e2ce.jpg","img/crucero.jpg"],"img/crucero.jpg"],"./../img/egipto.jpeg":[["egipto.79861f2a.jpeg","img/egipto.jpeg"],"img/egipto.jpeg"],"_css_loader":"../node_modules/parcel/src/builtins/css-loader.js"}],"css/box.css":[function(require,module,exports) {
 var reloadCSS = require('_css_loader');
 
 module.hot.dispose(reloadCSS);
@@ -247,7 +247,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "45761" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "45399" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};
